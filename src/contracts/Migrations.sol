@@ -1,4 +1,5 @@
 pragma solidity >=0.4.21 <0.6.0;
+// this ahandles deplyin gsmart contracts to other block chaings
 
 contract Migrations {
   address public owner;
